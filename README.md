@@ -4,6 +4,7 @@
 
 
 ####Shortcut图片<br />
+分别包括Static&Dynamic方式添加Shortcut<br />
 <img src="./ForceTouch(Shortcut)/Pics/Shortcut.PNG" width="220px;"/>
 
 ####Widget图片<br />
